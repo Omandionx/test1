@@ -1,0 +1,10 @@
+form {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+#result {
+    text-align: center;
+    padding-top: 50px;
+}
